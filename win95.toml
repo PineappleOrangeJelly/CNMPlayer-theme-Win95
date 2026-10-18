@@ -1,0 +1,10 @@
+name = "win95"
+text = "#d2d2d2"
+subtext = "#808080"
+base = "#000000"
+surface = "#008080"
+buff = "#3c3c3c"
+accent = "#c0c0c0"
+accent2 = "#54fc54"
+accent3 = "#008080"
+
